@@ -1,5 +1,5 @@
 # AIML-2024
-[lab-01]()
+[lab-01](https://github.com/Mundrathivaishnavi/AIML-2024/blob/main/firstnotebook1.ipynb)
 
 [lab-02]()
 
