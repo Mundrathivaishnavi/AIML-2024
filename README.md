@@ -5,7 +5,7 @@
 
 [lab-03](https://github.com/Mundrathivaishnavi/AIML-2024/blob/main/Lab03.ipynb)
 
-[lab-04]()
+[lab-04](https://github.com/Mundrathivaishnavi/AIML-2024/blob/main/Lab04.ipynb)
 
 [lab-05]()
 
