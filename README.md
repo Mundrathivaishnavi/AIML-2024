@@ -3,7 +3,7 @@
 
 [lab-02]()
 
-[lab-03]()
+[lab-03](https://github.com/Mundrathivaishnavi/AIML-2024/blob/main/Lab03.ipynb)
 
 [lab-04]()
 
