@@ -19,4 +19,4 @@
 
 # AIML-PROJECT-2024
 
-[AIML-project]()
+[AIML-project](https://github.com/Mundrathivaishnavi/AIML-2024/blob/main/AIML_PROJECT.ipynb)
