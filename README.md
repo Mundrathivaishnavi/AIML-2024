@@ -13,6 +13,6 @@
 
 [lab-07](https://github.com/Mundrathivaishnavi/AIML-2024/blob/main/AIML_LAB-7.ipynb)
 
-[lab-08]()
+[lab-08](https://github.com/Mundrathivaishnavi/AIML-2024/blob/main/AIML_LAB-08.ipynb)
 
 [lab-09]()
