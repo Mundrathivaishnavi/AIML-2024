@@ -17,6 +17,9 @@
 
 [lab-09](https://github.com/Mundrathivaishnavi/AIML-2024/blob/main/AIML_LAB-09.ipynb)
 
+[lab-10](https://github.com/Mundrathivaishnavi/AIML-2024/blob/main/AIML_LAB-09.ipynb)
+
+
 # AIML-PROJECT-2024
 
 [AIML-project](https://github.com/Mundrathivaishnavi/AIML-2024/blob/main/AIML_PROJECT.ipynb)
